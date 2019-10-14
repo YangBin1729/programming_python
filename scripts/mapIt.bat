@@ -1,0 +1,1 @@
+@D:\Anaconda3\envs\pycharm\python.exe D:\000tools\scripts\mapIt.py %*
